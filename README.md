@@ -46,7 +46,8 @@ This project enables real-time chat with your own documents — just upload, ask
 
 ![image](https://github.com/user-attachments/assets/17efbae0-8056-4b60-9c43-9f6cead8d33d)
 
-![image](https://github.com/user-attachments/assets/d5e321da-23b7-4511-83f4-a1e5bd64691d)
+![image](https://github.com/user-attachments/assets/3a735ad5-4b7f-495e-92fa-004091fcb56a)
+
 
 
 
